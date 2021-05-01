@@ -6,5 +6,3 @@ beforehand. The market zones data was obtained from the script FP_Trade Area.R
 The cand.RData was generated using the script FP_Code.R and is commented so that
 the user can run it to verify our results.
 
-Then the user must go to the file shinyapps_1.io.R to run the app. The server.R and
-ui.R related files are in deployment_1.
